@@ -1,0 +1,4 @@
+[
+    { "target": "Python", "version": "3.13.2", "path": "python/" },
+    { "target": "C / C++", "path": "c_cpp/" }
+]
