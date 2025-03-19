@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY html-directory /usr/share/nginx/html
+COPY _build/_static /usr/share/nginx/html
